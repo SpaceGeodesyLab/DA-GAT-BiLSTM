@@ -6,7 +6,11 @@
 
 Please contact: 13775871578@163.com (Siyu Zhu) or xxh@jxust.edu.cn (Xiaoxing He) .
 
-> Note: please verify that the contact email matches the corresponding author's current institutional address before release.
+---
+
+## References
+---
+Zhu, S., Kermarrec, G., He, X., Wang, S., Fernandes, R., Huang, Z., Montillet, J.P. and Zhou, Y., 2026. A graph attention framework with kinematic constraints for network-based GNSS time series prediction.
 
 ---
 
