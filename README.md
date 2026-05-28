@@ -408,4 +408,5 @@ This software is released for academic and research use. If you use this code or
 
 
 ## SpaceGeodesyLab of Jiangxi University of Science and Technology/江西理工大学时空智能与对地观测团队
-## PI: Dr. Xiaoxing He (https://scholar.google.com/citations?user=Q8mGyCwAAAAJ&hl=en&oi=sra)
+## PI: Dr. Xiaoxing He
+https://scholar.google.com/citations?user=Q8mGyCwAAAAJ&hl=en&oi=sra
