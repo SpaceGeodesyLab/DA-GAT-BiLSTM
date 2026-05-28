@@ -407,6 +407,6 @@ If you use this code or the DA-GAT-BiLSTM framework in your work, please cite th
 This software is released for academic and research use. If you use this code or the DA-GAT-BiLSTM framework in your work, please cite the paper listed in the Citation section above.
 
 
-## SpaceGeodesyLab of Jiangxi University of Science and Technology/江西理工大学时空智能与对地观测团队
+## SpaceGeodesyLab of Jiangxi University of Science and Technology
 ## PI: Dr. Xiaoxing He
 https://scholar.google.com/citations?user=Q8mGyCwAAAAJ&hl=en&oi=sra
