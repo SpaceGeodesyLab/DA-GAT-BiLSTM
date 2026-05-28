@@ -5,8 +5,7 @@
 ## For software usage issues
 
 Please contact:
-**zhkhuang@whu.edu.cn** (Zhengkai Huang, corresponding author)
-and **13775871578@163.com** (Siyu Zhu, first author).
+**xxh@jxust.edu.cn** (Xiaoxing He) and 13775871578@163.com (Siyu Zhu).
 
 > Note: please verify that the contact email matches the corresponding author's current institutional address before release.
 
