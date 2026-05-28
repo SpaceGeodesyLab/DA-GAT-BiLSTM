@@ -4,8 +4,7 @@
 
 ## For software usage issues
 
-Please contact:
-**xxh@jxust.edu.cn** (Xiaoxing He) and 13775871578@163.com (Siyu Zhu).
+Please contact: 13775871578@163.com (Siyu Zhu) or xxh@jxust.edu.cn (Xiaoxing He) .
 
 > Note: please verify that the contact email matches the corresponding author's current institutional address before release.
 
